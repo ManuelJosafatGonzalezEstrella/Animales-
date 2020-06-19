@@ -1,4 +1,16 @@
 {
+	
+	"defecto":[{
+	"nombre":"equidna",
+	"puntaje":{"Ave":0,"Reptil":0,"Mamifero":100}},
+	{
+	"nombre":"ornitorrinco",
+	"puntaje":{"Ave":0,"Reptil":0,"Mamifero":100}},
+	{
+	"nombre":"kiwi",
+	"puntaje":{"Ave":100,"Reptil":0,"Mamifero":0}}
+	
+	],
 	"Nodo":[
 		["A","Alas",{"Ave":3,"Reptil":1,"Mamifero":2}],
 		["B","Volar",{"Ave":3,"Reptil":0,"Mamifero":2}],
